@@ -1,2 +1,7 @@
 # IPAtranslator
-Back to C++ with an english to IPA tranlator
+Back to C++ with an English to IPA translator
+
+**TODO**
+---
+- Add support for other languages
+- Learn C++

@@ -1,0 +1,16 @@
+/*
+void Menu(ofstream &outfile)
+{
+    char input;
+    outfile << "H - How to Use\tE - Start\nQ - Quit";
+    switch(input)
+    {
+        case 'h':
+        case 'H':
+            outfile << "To operate this program, at the Menu enter 'E'\nThis will take you to a screen where your sentence will be read in and then returned with the appropriate IPA tranlation.";
+            outfile << "Legend:\n^a - aspirated/t^-a - unaspirated\n^
+            
+            
+    }
+}
+*/

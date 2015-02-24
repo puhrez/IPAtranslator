@@ -1,0 +1,11 @@
+Welcome to IPA translator
+
+
+The original sentence is:
+this is a sentence for my teacher,
+please don't embarrass me, my program
+
+The translated sentence is:
+/θɪs ɪs eɪ sɛntɛns fɝ maɪ titʃɝ,
+plis doʊn't ɛmbɑɹrɑs mɛ, maɪ proʊgrɑm/
+
